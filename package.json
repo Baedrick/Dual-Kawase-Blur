@@ -1,0 +1,21 @@
+{
+  "name": "com.baedrick.dual-kawase-blur",
+  "version" : "1.0.0",
+  "displayName" : "Dual Kawase Blur URP",
+  "description" : "Dual Kawase Blur for URP",
+  "dependencies": {
+    "com.unity.render-pipelines.universal" : "12.1.8"
+  },
+  "keywords": [
+    "blur",
+    "kawase",
+    "fast blur",
+    "cheap blur",
+    "mobile"
+  ],
+  "author" : {
+    "name" : "Dedrick \"Baedrick\" Koh",
+    "email" : "",
+    "url" : ""
+  }
+}
