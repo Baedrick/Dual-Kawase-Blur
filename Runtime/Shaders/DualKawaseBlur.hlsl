@@ -4,7 +4,7 @@
 TEXTURE2D_X(_SourceTex);
 SAMPLER(sampler_linear_clamp);
 float4 _SourceTex_TexelSize;
-half1 _BlurOffset;
+half _BlurOffset;
 
 struct MeshData
 {
